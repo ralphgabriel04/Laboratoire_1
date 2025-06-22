@@ -1,6 +1,4 @@
-Voici ton **README général** mis à jour avec le titre **Laboratoire 1** :
 
----
 
 # Laboratoire 1
 
